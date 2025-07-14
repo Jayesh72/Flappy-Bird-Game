@@ -3,10 +3,10 @@
 <img width="2873" height="1693" alt="Screenshot 2025-07-14 184125" src="https://github.com/user-attachments/assets/01a010b6-3b77-495b-9aa0-8aba686c4dc4" />
 
 
-Overview
+# Overview
 This is a simple Flappy Bird clone built using Java Swing. The game features smooth bird movement with easing, pipe obstacles, collision detection, scoring, and sound effects.
 
-Features :
+# Features :
 
 Smooth bird physics with easing-based jump and tilt animations
 
